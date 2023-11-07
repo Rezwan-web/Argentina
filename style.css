@@ -1,0 +1,18 @@
+body{
+  background: black;
+}
+.one{
+  width: 700px;
+  height: 100px;
+  background:blue;
+}
+.two{
+  width: 700px;
+  height: 100px;
+  background: white;
+}
+.three{
+  width: 700px;
+  height: 100px;
+  background: blue;
+}
